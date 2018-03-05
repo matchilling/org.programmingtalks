@@ -1,0 +1,14 @@
+CACHE MANIFEST
+#ver:cacf2d984bc45327a6afe765622138c91ac44817
+#plugin:4.9.0
+
+CACHE:
+/
+/bundle.js
+/style.css
+
+NETWORK:
+*
+
+FALLBACK:
+/ /
